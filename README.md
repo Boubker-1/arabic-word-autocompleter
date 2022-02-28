@@ -9,8 +9,11 @@ This is a classification problem as we treat the word we predict as a class, and
 
 The corpus used for training this model was made by Mourad Abbas (Khaleej-2004) and it has 4 categories:
 -Economy
+
 -International News
+
 -Local News
+
 -Sports
 
 Due to memory limits, this model was only trained on 50 documents from Economy category.
